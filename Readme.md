@@ -1,7 +1,8 @@
 # LLM Qunatization and Inferencing Tool
 This repository houses a Python tool designed to qunatize a large language model using different algorithms like BitsandByets, Llama.cpp, AWQ, and Exllamv2.  The repository also helps in storing these quantized model on HuggingFace hub.
 The tool also helps in using quantized models for inferencing tasks. 
- *This tool is intended for education and informational purposes only. Please use quantized model in production with caution after proper testing. * 
+ 
+**This tool is intended for education and informational purposes only. Please use quantized model in production with caution after proper testing.** 
 
 ## Features
 
