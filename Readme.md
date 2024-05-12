@@ -13,7 +13,7 @@ The tool also helps in using quantized models for inferencing tasks.
 ## How to use 
 - **Install required libraries**: use pip install section to install required python packages to run the program.
 - **HuggingFace Hub API key**: HuggingFace hub API key is needed to access gater LLM models, to create a model repo, and push the quantized model to the repo. 
-- **How to run**: You can run specific section of the notebook relevant for qunatization algorithms.
+- **How to run**: Open Quantizing_LLMs_and_inferencing_Quantized_model_from_HF.ipynb in colab notebook to run the application. You can run specific section of the notebook relevant for qunatization algorithms.
 
 ***What is quantization of Large language model?***
 
